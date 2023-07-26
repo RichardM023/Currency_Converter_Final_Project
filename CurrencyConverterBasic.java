@@ -48,5 +48,6 @@ public static void run(){
       System.out.println("9: Mexican Peso ");
       System.out.println("10: Russian Ruble");
       System.out.println("");
+      System.out.println("");
   }
 }
